@@ -7,3 +7,5 @@
 3 - rn-navigation-generator
 
 Follow the steps that come up. Good luck :)
+
+![alt text](https://github.com/[ykavras]/[rn-navigation-generator]/blob/[branch]/screenshot.png?raw=true)

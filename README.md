@@ -1,5 +1,7 @@
 # React Native Navigation Generator
 
+<img src="https://github.com/ykavras/rn-navigation-generator/blob/master/screenshot.png?raw=true" width="150" height="300" alt="Screenshot">
+
 1 - npm i -g rn-navigation-generator
     
 2 - cd your-project-directory
@@ -8,4 +10,3 @@
 
 Follow the steps that come up. Good luck :)
 
-![alt text](https://github.com/[ykavras]/[rn-navigation-generator]/blob/[branch]/screenshot.png?raw=true)
